@@ -29,6 +29,8 @@ O fluxo de trabalho segue as melhores práticas da **Arquitetura Medalhão (Bron
 
 O pipeline foi estruturado em três camadas lógicas para garantir um fluxo de dados progressivamente mais limpo e agregado.
 
+![] (https://github.com/jonatasjs-dev/sinasc-baixada/blob/main/imagens/delta%20lake.png)
+
 ### 🥉 Camada Bronze
 
 **Objetivo:** Ingerir os dados brutos do SINASC em seu formato original, servindo como a fonte única da verdade.
