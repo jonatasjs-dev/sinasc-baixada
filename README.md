@@ -29,7 +29,7 @@ O fluxo de trabalho segue as melhores práticas da **Arquitetura Medalhão (Bron
 
 O pipeline foi estruturado em três camadas lógicas para garantir um fluxo de dados progressivamente mais limpo e agregado.
 
-![delta lake] (imagens/delta lake.png)
+![delta lake] (<imagens/delta lake.png>)
 
 
 ### 🥉 Camada Bronze
