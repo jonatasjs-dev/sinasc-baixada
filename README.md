@@ -70,7 +70,11 @@ A camada Gold permitiu a criação de visualizações detalhadas e a validação
 
 1.  **Variabilidade entre Municípios:** Embora a taxa regional de baixo peso ao nascer seja relativamente estável, existe uma variação significativa entre as cidades. Municípios como [Ex: Peruíbe] apresentam taxas consistentemente mais altas, indicando a necessidade de investigações e ações de saúde focadas.
 
-2.  **Relação entre Pré-Natal e Tipo de Parto:** A análise demonstrou uma forte associação estatística (validada por um Teste Qui-Quadrado com p-valor < 0.05) entre a qualidade do pré-natal e o tipo de parto. Gestantes com acompanhamento adequado (7+ consultas) tendem a ter uma proporção menor de partos cesáreos em comparação com aquelas com acompanhamento inadequado.
+![](<imagens/baixopeso_por_municipio.png>)
+
+3.  **Relação entre Pré-Natal e Tipo de Parto:** A análise demonstrou uma forte associação estatística (validada por um Teste Qui-Quadrado com p-valor < 0.05) entre a qualidade do pré-natal e o tipo de parto. Gestantes com acompanhamento adequado (7+ consultas) tendem a ter uma proporção menor de partos cesáreos em comparação com aquelas com acompanhamento inadequado.
+
+![](<imagens/prenatal_parto.png>)
 
 ![Cobertura de Pré-Natal por Tipo de Parto](image_d3f1c6.png)
 
@@ -105,4 +109,3 @@ A camada Gold permitiu a criação de visualizações detalhadas e a validação
 
 ## Referências
 - Documentação e notas técnicas do DATASUS e da Secretaria de Estado da Saúde de São Paulo.
-```
