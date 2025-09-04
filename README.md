@@ -29,7 +29,7 @@ O fluxo de trabalho segue as melhores práticas da **Arquitetura Medalhão (Bron
 
 O pipeline foi estruturado em três camadas lógicas para garantir um fluxo de dados progressivamente mais limpo e agregado.
 
-<img width="2288" height="1100" alt="Image" src="https://github.com/user-attachments/assets/5794abb4-a739-4dc1-919d-1e937b102669" />
+
 
 
 ### 🥉 Camada Bronze
