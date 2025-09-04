@@ -76,7 +76,6 @@ A camada Gold permitiu a criação de visualizações detalhadas e a validação
 
 ![](<imagens/prenatal_parto.png>)
 
-![Cobertura de Pré-Natal por Tipo de Parto](image_d3f1c6.png)
 
 ## Estrutura do Repositório
 ```
