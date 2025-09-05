@@ -70,7 +70,7 @@ A camada Gold permitiu a criação de visualizações detalhadas e a validação
 
 1.  **Variabilidade entre Municípios:** Embora a taxa regional de baixo peso ao nascer seja relativamente estável, existe uma variação significativa entre as cidades. Municípios como [Ex: Bertioga] apresentam taxas consistentemente mais altas, indicando a necessidade de investigações e ações de saúde focadas.
 
-![](<imagens/baixopeso_por_municipio.png>)
+![](<imagens/box-plot_baixo_peso2.png>)
 
 2.  **Relação entre Pré-Natal e Tipo de Parto:** A análise demonstrou uma forte associação estatística (validada por um Teste Qui-Quadrado com p-valor < 0.05) entre a qualidade do pré-natal e o tipo de parto. Gestantes com acompanhamento adequado (7+ consultas) tendem a ter uma proporção maior de partos cesáreos.
 
