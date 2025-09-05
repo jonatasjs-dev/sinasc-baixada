@@ -68,7 +68,7 @@ O pipeline foi estruturado em três camadas lógicas para garantir um fluxo de d
 
 A camada Gold permitiu a criação de visualizações detalhadas e a validação de hipóteses, gerando os seguintes insights para a Baixada Santista:
 
-1.  **Variabilidade entre Municípios:** Embora a taxa regional de baixo peso ao nascer seja relativamente estável, existe uma variação significativa entre as cidades. Municípios como [Ex: Bertioga] apresentam taxas consistentemente mais altas, indicando a necessidade de investigações e ações de saúde focadas.
+1.  **Variabilidade entre Municípios:** Embora a taxa regional de baixo peso ao nascer seja relativamente estável, existe uma variação significativa entre as cidades. Municípios como [Ex: Bertioga] apresentam taxas consistentemente mais baixas, indicando a necessidade de investigações e ações de saúde focadas.
 
 ![](<imagens/box-plot_baixo_peso2.png>)
 
