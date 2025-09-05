@@ -72,7 +72,7 @@ A camada Gold permitiu a criação de visualizações detalhadas e a validação
 
 ![](<imagens/baixopeso_por_municipio.png>)
 
-2.  **Relação entre Pré-Natal e Tipo de Parto:** A análise demonstrou uma forte associação estatística (validada por um Teste Qui-Quadrado com p-valor < 0.05) entre a qualidade do pré-natal e o tipo de parto. Gestantes com acompanhamento adequado (7+ consultas) tendem a ter uma proporção maior de partos cesáreos em comparação com aquelas com acompanhamento inadequado.
+2.  **Relação entre Pré-Natal e Tipo de Parto:** A análise demonstrou uma forte associação estatística (validada por um Teste Qui-Quadrado com p-valor < 0.05) entre a qualidade do pré-natal e o tipo de parto. Gestantes com acompanhamento adequado (7+ consultas) tendem a ter uma proporção maior de partos cesáreos.
 
 ![](<imagens/prenatal_parto.png>)
 
